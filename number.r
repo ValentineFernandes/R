@@ -6,5 +6,5 @@ x
 y
 
 # Print the class name of x and y
-class(x)
+class(x) 
 class(y)
