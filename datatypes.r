@@ -1,6 +1,6 @@
 ​# numeric
 x <- 10.5
-class(x)
+class(x) 
 
 # integer
 x <- 1000L
