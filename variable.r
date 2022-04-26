@@ -1,3 +1,3 @@
 name <- "John Doe"
  
-name # auto-print the value of the name variable
+name # auto-print the value of the name variable 
